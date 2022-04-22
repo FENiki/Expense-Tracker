@@ -1,3 +1,3 @@
 # Expense-Tracker
 
-My First Project Tracker
+My First React Project
